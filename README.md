@@ -3,7 +3,7 @@
 This repository contains the SAP Business One (SBO) training guide on Advanced Available-to-Promise (ATP) and Delivery Schedule Management, along with a SQL query to replicate the inventory check and Advanced ATP.
 
 ## Files
-- **[SAP_Business_One_ATP_Guide](https://help.sap.com/docs/SAP_BUSINESS_ONE/68a2e87fb29941b5bf959a184d9c6727/93230cc0be374dbbb9529368c91f9b3c.html)**: The Complete Guide. (Available Soon!)
+- **[SAP_Business_One_ATP_Guide](https://github.com/user-attachments/files/20279760/SBO_ATP.pdf)**: The Complete Guide.
 - **[ATP_Inventory_Query_SBO.sql](SQL/ATP_Inventory_Query_SBO.sql)**: SQL query for ATP inventory analysis.
 - **[ATP_Replica_Logic.sql](https://github.com/atonekaboni/SBO_Inventory/blob/main/SQL/ATP_Replica_Logic.sql)**: Conceptual Available-to-Promise (ATP) Calculation in SQL for SAP Business One
 - **[ATP.pbit](https://github.com/atonekaboni/SBO_Inventory/blob/main/PBI/ATP.pbit)**: Power BI ATP Template
