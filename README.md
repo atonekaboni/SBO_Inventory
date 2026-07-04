@@ -27,12 +27,11 @@ This repository contains the SAP Business One (SBO) training guide on Advanced A
 The SQL files include comments for documentation. If you encounter issues in the SBO Query Generator, remove the comments (lines starting with --) before running the query.
 
 ## License
-MIT License (or choose another open-source license).
+MIT License
 
 Prepared by: Amirhossein Tonekaboni<br>SAP Business One Consultant
 
-<img src="https://github.com/user-attachments/assets/810e92a1-f6eb-4a5b-a2f5-ea61ad1241af" width="2%">   [linkedin.com/in/tonekaboni](https://www.linkedin.com/in/tonekaboni/)
-<br><img src="https://media.licdn.com/dms/image/v2/C4E0BAQGKWpCXrVLm3Q/company-logo_200_200/company-logo_200_200/0/1630580865071/maven_analytics_logo?e=2147483647&v=beta&t=qcxrRWZs5vlYYcpVOg8wAci5gc0UJmV_L0QlzWdaqwc" width="2%"> [Maven Analytics Portfolio](https://mavenanalytics.io/project/33114)
-  
-<br><img src="https://github.com/user-attachments/assets/23de988a-1c18-4938-8951-15715c6b1da4" width="20%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonekaboni)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/atonekaboni/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://atonekaboni.ir)
 
