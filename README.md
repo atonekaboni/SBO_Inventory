@@ -29,7 +29,10 @@ The SQL files include comments for documentation. If you encounter issues in the
 ## License
 MIT License
 
-Prepared by: Amirhossein Tonekaboni<br>SAP Business One Consultant
+## Contact
+**Amirhossein Tonekaboni**
+<br> SAP Business One Consultant
+<br> BI Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonekaboni)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/atonekaboni/)
